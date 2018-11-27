@@ -88,8 +88,7 @@ export default {
   subscriptions: {}
 }
 ```
-- `model`里面包括以下五部分：`namespace`、`state`、`reducers`、`effects`、`subscriptions`，缺一不可。
-- 注意，这里也需要从`service`层导入相应的方法。
+`model`里面包括以下五部分：`namespace`、`state`、`reducers`、`effects`、`subscriptions`，缺一不可。注意，这里也需要从`service`层导入相应的方法。
 
 - **namespace 命名空间**
 ```
