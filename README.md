@@ -146,7 +146,7 @@ subscriptions: {
 ---
 ### Dva 数据流向
 
-    总的来说如下：View层操作 –> 触发models层effect中方法 –> 触发service层请求，获取后台数据 –> 触发model层处理相应数据的方法，存储至reducer中 –> 更新model层中state –> 触发view层的render方法进行重新渲染 –> 页面更新
+总的来说如下：View层操作 –> 触发models层effect中方法 –> 触发service层请求，获取后台数据 –> 触发model层处理相应数据的方法，存储至reducer中 –> 更新model层中state –> 触发view层的render方法进行重新渲染 –> 页面更新
 
  如图所示
  ![数据流](https://img-blog.csdn.net/2018090600192160?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NDVV9DaW5keQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
