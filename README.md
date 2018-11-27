@@ -1,6 +1,11 @@
 # React_Umi_Dva_antD_Demo
 
+[dva 入门：手把手教你用写应用](https://juejin.im/entry/5879a63c1b69e600582da314)
 [React + Dva + Antd + Umi 快速入门](https://blog.csdn.net/SCU_Cindy/article/details/82432971)
+[dva 框架介绍](https://www.jianshu.com/p/8b7def32740f)
+[10分钟 让你dva从入门到精通](https://www.jianshu.com/p/69f13e9123d9)
+[UmiJS官方文档](https://umijs.org/zh/guide/#%E7%89%B9%E6%80%A7)
+[TypeScript 入门教程](https://ts.xcatliu.com/)
 
 ## 基础框架概念
 
@@ -149,3 +154,15 @@ subscriptions: {
 
  如图所示
  ![数据流](https://img-blog.csdn.net/2018090600192160?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NDVV9DaW5keQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+ 
+ ---
+ ## 参考资源
+ 
+[umi + dva，完成用户管理的 CURD 应用](https://github.com/sorrycc/blog/issues/62)
+[Dva入门课](https://dvajs.com/guide/introduce-class.html)
+[Umi官方指南](https://umijs.org/)
+[React官方指南](https://reactjs.org/)
+[Dva官方指南](https://dvajs.com/)
+[Ant Design](https://ant.design/)
+[Dva + Ant Design 前后端分离之 React 应用实践](https://www.jianshu.com/p/1329a324101d)
+[Dva Github](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
