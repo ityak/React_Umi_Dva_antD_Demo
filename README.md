@@ -21,7 +21,6 @@
 - **Umi** 
     一套可插拔的企业级 react 应用框架，同样由dva作者 sorrycc 完成。他在Umi中引入了 UI 工具 antd，打包工具 roadhog，路由 react-router和状态管理器 dva，做到了可插拔机制。
 
----
 
 ## Dva 初实践
 
@@ -155,7 +154,6 @@ subscriptions: {
  如图所示
  ![数据流](https://img-blog.csdn.net/2018090600192160?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NDVV9DaW5keQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
  
- ---
  ## 参考资源
  
 - [umi + dva，完成用户管理的 CURD 应用](https://github.com/sorrycc/blog/issues/62)
